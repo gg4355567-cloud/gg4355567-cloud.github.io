@@ -1,0 +1,92 @@
+html,body {
+    background-image:url(background\ pink.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.top-header {
+    background-color: rgb(255, 172, 172);
+    font-family: "Pacifico";
+    text-align: center;
+}
+
+.menu-item {
+    color: black;
+    padding: 10px;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.brand {
+    font-size: 50px;
+    font-weight: 900px;
+}
+
+
+.main-content {
+    max-width: 700px;
+    margin: auto;
+    padding: 20px;
+}
+
+.box {
+    background-color:rgb(221, 99, 119);
+    padding: 20px;
+    margin: 20px;
+}
+
+.fonts {
+    font-family: "Delius";
+}
+
+.font-head {
+    font-family: "Delius";
+}
+
+.font-center {
+    font-family: "Delius";
+}
+
+.font-bottom {
+    font-family: "Delius";
+}
+
+.image {
+    width: 100%;
+
+}
+
+.font-paragraf {
+    font-family: "Noto Sans Thai", sans-serif;
+}
+
+.font-box {
+    font-family: "Noto Sans Thai", sans-serif;
+}
+
+.font-index {
+    font-family: "Noto Sans Thai", sans-serif;
+}
+
+.font-style {
+    font-family: "Noto Sans Thai", sans-serif;
+}
+
+.font-lase {
+    font-family: "Noto Sans Thai", sans-serif;
+}
+
+.button {
+    color: black;
+    background-color: rgb(156, 112, 119);
+    padding: 10px;
+    text-decoration: none ;
+    display: inline-block;
+}
+
+.bottom-footer {
+    background-color: rgb(255, 172, 172);
+    padding: 20px;
+    text-align: center;
+}
